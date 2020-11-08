@@ -1,6 +1,11 @@
+//add gitpod.io/ a github
 //npm i    reinstalla i pacchetti 
 //nodemon app.js si aggiorna da solo
 
+//cd ..
+//git add *
+//git commit -m "ok"
+//git push origin master
 var express = require('express');
 
 var index = express();
