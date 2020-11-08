@@ -1,3 +1,6 @@
+//npm i    reinstalla i pacchetti 
+//nodemon app.js si aggiorna da solo
+
 var express = require('express');
 
 var index = express();
